@@ -48,6 +48,7 @@ def getValidInput():
 
 # Main program
 os.system("cls")
+
 board = initBoard(board)
 printBoard(board)
 
